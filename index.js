@@ -29,7 +29,7 @@ console.log(hasTargetSum([1,2,3], 7));
 /* 
   Write the Big O time complexity of your function here
 
-  Big 0(n)
+  0(n**2) - quadratic
 */
 
 /* 
